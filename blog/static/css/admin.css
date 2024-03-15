@@ -1,0 +1,6 @@
+header#header, body{
+    background: #446600;
+}
+a:link, a:visited{
+    color: green;
+}
